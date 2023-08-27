@@ -6,37 +6,86 @@ img{
     height: 250px;
     width: 250px;
     background-color: brown;
+    
 }
 #first-heading{
-    color: #1ef20b;
+    color: #046ae6a9;
     text-align:left ;
+    font-size: 50px;
+    border: 3px solid;
+    border-radius: 20px;
+    background-color: rgb(248, 115, 20);
+    height: 90px;
+    
 
 }
 #first-para{
-    color: black;
+    color: rgb(156, 8, 235);
     font-size: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 255, 162);
 }
 #second-para{
     color: rgb(17, 238, 234);
     font-size: 50px;
+    border: 2px  solid gray;
 }
 #best-sellers{
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
+    background-color: blueviolet;
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    
 }
-ul li{
-    font-size: 30px;
+#first-list{
+    font-size: 40px;
     margin: 20px;
     display: inline-block;
     text-align: center;
+    background-color: rgb(245, 6, 6);
+    padding: 20px;
+    border: 2px solid ;
+    border-radius: 20px;
+    
+
 }
 #customers-worldwide1{
     text-align: start;
     margin: 30px;
+    border: 2px solid;
+    background-color: blanchedalmond;
 }
+
+#reason-behind{
+    background-color: purple;
+    text-align: center;
+    padding: 20px;
+}
+
 #list-desc{
     font-size: medium;
 }
+
+#vps-pricing{
+    text-align: left;
+    font-size: 40px;
+    background-color: rgb(20, 232, 83);
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+}
+#list-heading{
+    font-size: 20px;
+    color: rgb(242, 195, 7);
+
+}
+#list-desc{
+    color: darkgreen;
+    line-height: 30px;
+}
 footer{
-    text-align: center;
+    text-align: center;;
 }
