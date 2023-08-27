@@ -1,0 +1,42 @@
+body{
+    background-color: lightcyan;
+    background-image:url("") ;
+}
+img{
+    height: 250px;
+    width: 250px;
+    background-color: brown;
+}
+#first-heading{
+    color: #1ef20b;
+    text-align:left ;
+
+}
+#first-para{
+    color: black;
+    font-size: 30px;
+}
+#second-para{
+    color: rgb(17, 238, 234);
+    font-size: 50px;
+}
+#best-sellers{
+    text-align: center;
+    font-size: 40px;
+}
+ul li{
+    font-size: 30px;
+    margin: 20px;
+    display: inline-block;
+    text-align: center;
+}
+#customers-worldwide1{
+    text-align: start;
+    margin: 30px;
+}
+#list-desc{
+    font-size: medium;
+}
+footer{
+    text-align: center;
+}
